@@ -1,0 +1,64 @@
+.m-maindiv {
+  display: flex;
+}
+
+.move {
+  width: 70vw;
+}
+
+.destination {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.from {
+}
+
+.to {
+}
+
+.request p {
+  color: orange;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.details {
+  display: flex;
+  justify-content: space-between;
+}
+
+.property {
+  display: flex;
+  align-items: center;
+}
+
+.message {
+  display: flex;
+  margin-top: 20px;
+  align-items: center;
+}
+
+.message p {
+  margin: 0px 20px;
+}
+
+.property p {
+  margin: 0px 10px;
+}
+
+.viewbtn {
+  border: 2px solid orange;
+  background-color: white;
+  color: orange;
+}
+
+.quotebtn {
+  border: none;
+  background-color: orange;
+  color: white;
+  padding: 5px 10px;
+  margin-left: 20px;
+}

@@ -1,0 +1,14 @@
+.n-maindiv {
+  height: 100vh;
+  width: 20vw;
+}
+
+.tab {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.tab h3 {
+  margin-left: 20px;
+}
